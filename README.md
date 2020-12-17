@@ -25,6 +25,10 @@ Run node tracker.js to start the application and select and provide the required
 5. Add employee 
 6. Add role
 7. Add department
-  
+
+
+## Credits 
+https://www.w3schools.com/sql/
+
   
 
